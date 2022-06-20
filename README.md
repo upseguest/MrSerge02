@@ -1,4 +1,6 @@
 # Hello there!
-🔭 I’m currently working on a Discord bot for the AvdanOS Community Discord server as of now.
+- Contributor for AvdanOS, helped develop the website and a Discord bot.
 
-🌱 I dont know what language to learn, so you can suggest some to me.
+- Developer of Entity, which will release in never because I'm unmotivated.
+
+- I dont know what language to learn, so you can suggest some to me.
