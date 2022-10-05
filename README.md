@@ -6,3 +6,5 @@
 - I dont know what language to learn, so you can suggest some to me.
 
 <img src="https://komarev.com/ghpvc/?username=MrSerge01" alt="Profile Views" />
+
+[![MrSerge01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSerge01&show_icons=true&theme=tokyonight)](https://github.com/MrSerge01)
