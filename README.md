@@ -7,4 +7,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=MrSerge01" alt="Profile Views" />
 
-[![MrSerge01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSerge01&show_icons=true&theme=tokyonight)](https://github.com/MrSerge01)
+[![MrSerge01's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSerge01&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/MrSerge01)
