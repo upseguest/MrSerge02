@@ -1,4 +1,4 @@
-# Hello there! 👋
+# うっす！
 ## My nickname is Serge.
 ### I'm a bot developer, who's slowly learning stuff which'll make me more than that.
 ## Projects
